@@ -19,3 +19,22 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.vazirmatn {
+  font-family: "Vazirmatn", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.marheymatn {
+  font-family: "Marhey", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  direction: rtl;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
