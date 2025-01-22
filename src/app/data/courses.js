@@ -1,0 +1,48 @@
+let courses = [
+  {
+    id: "whatschatgpt",
+    imageURL: "/whats-ChatGPT.jpg",
+    title: "chatGPT چیست؟ ",
+    description: "آموزش استفاده از هوش مصنوعی در زندگی",
+    qty: "8",
+    duration: "1",
+    price: "150000",
+  },
+  {
+    id: "scratchbeginners",
+    imageURL: "/scratch-for-beginners.png",
+    title: "آموزش مفاهیم پایه ای برنامه نویسی با اسکرچ",
+    description: "",
+    qty: "38",
+    duration: "5",
+    price: "650000",
+  },
+  {
+    id: "chatgptforparents",
+    imageURL: "/chatGpt-for-parents.jpeg",
+    title: "آموزش ChatGPT برای والدین",
+    description: "هوش مصنوعی برای چالش های روزمره والدین",
+    qty: "5",
+    duration: "0.5",
+    price: "0",
+  },
+  {
+    id: "Dall-E.webp",
+    imageURL: "/Dall-E-.png",
+    title: "تصویر سازی با dall-e",
+    description: "ساخت تصویر با هوش مصنوعی",
+    qty: "10",
+    duration: "2",
+    price: "200000",
+  },
+  {
+    id: "saftysecurity",
+    imageURL: "/Safety-Security.jpg",
+    title: "امنیت آنلاین",
+    description: "حفاظت از اطلاعات خود در دنیای مجازی",
+    qty: "6",
+    duration: "0.5",
+    price: "70000",
+  },
+];
+export default courses;
